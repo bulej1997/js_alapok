@@ -1,0 +1,4 @@
+{
+ "predef": [ "console" ],
+ "devel": true,
+}
