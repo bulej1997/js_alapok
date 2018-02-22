@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve":"live-server"
+    "serve": "live-server"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.17.0",
+    "csslint": "^1.0.5",
+    "eslint": "^4.18.1",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "live-server": "^1.2.0"
   },

@@ -1,4 +1,4 @@
 {
-"box-model": false,
-"order-alphabetical": false
+    "order-alphabetical": false,
+    "box-model": true
 }
